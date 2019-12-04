@@ -1,7 +1,3 @@
-def using_times
-	#your code here
+7.time do
+  puts "Windgardium Leviosa."
 end
-
-
-
-
